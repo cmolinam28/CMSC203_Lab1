@@ -1,3 +1,19 @@
+/*
+ * Class: CMSC203 CRM 21332
+ * Instructor:Grigoriy Grinberg
+ * Description: This lab requires you to create a Java program that uses
+ the Movie class and a driver to test it. First, you will instantiate a Movie 
+ object, prompt the user for the title, rating, and tickets sold, and display the 
+ results with toString. Then, you will extend the driver with a loop to enter multiple movies 
+ and finally upload your files to GitHub as proof.
+ * Due: 09/29/2025
+ * Platform/compiler: Eclipse
+ * I pledge that I have completed the programming 
+ * assignment independently. I have not copied the code 
+ * from a student or any source. I have not given my code 
+ * to any student.
+   Print your Name here: Corina Molina
+*/
 import java.util.Scanner;
 
 public class MovieDriver_Task2
@@ -58,3 +74,4 @@ public class MovieDriver_Task2
 	}
 
 }
+
